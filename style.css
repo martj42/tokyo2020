@@ -1,0 +1,40 @@
+ @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+ 
+body {
+    font-family: 'Titillium Web';
+}
+
+h1.title {
+  visibility: hidden;
+  font-size: 0px;
+}
+
+.my-tbl {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+div.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  color: #022061;
+    background-image: url('logo25.png');
+  background-repeat: no-repeat;
+     background-attachment: fixed;
+        background-position: center; 
+        background-size: contain;
+}
+
+.rt-thead {
+  background-color: #022061 !important;
+  color: white;
+}
+
+.rt-td {
+    border-top: 2px solid #f2f2f2;
+}
